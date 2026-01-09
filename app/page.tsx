@@ -403,7 +403,7 @@ export default function Home() {
           </div>
         </section>
 
-        <section className="bg-white py-20">
+        <section className="bg-white py-10">
           <div className="max-w-7xl mx-auto px-4">
             {/* Section Title */}
             <h2 className="text-3xl md:text-4xl font-bold text-center text-gray-900 mb-16">
@@ -411,7 +411,7 @@ export default function Home() {
             </h2>
 
             {/* Item 1 */}
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-10 items-center mb-20">
+            <div className="grid grid-cols-1 md:grid-cols-12 gap-10 items-center mb-10">
               <div className="md:col-span-4">
                 <Image
                   src="/hand.jpg"
@@ -441,7 +441,7 @@ export default function Home() {
             </div>
 
             {/* Item 2 */}
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-10 items-center mb-20">
+            <div className="grid grid-cols-1 md:grid-cols-12 gap-10 items-center mb-10">
               <div className="md:col-span-4">
                 <Image
                   src="/app.jpg"
@@ -502,7 +502,7 @@ export default function Home() {
         </section>
 
         <section className="bg-white">
-          <div className="max-w-5xl mx-auto px-4 py-10 space-y-6">
+          <div className="max-w-5xl mx-auto px-4 py-8 space-y-6">
             {/* FedEx rate changes */}
             <div>
               <p className="font-semibold text-gray-900">
@@ -521,7 +521,7 @@ export default function Home() {
             </div>
 
             {/* Spacer */}
-            <div className="h-4 md:h-6" />
+            {/* <div className="h-4 md:h-6" /> */}
 
             {/* Money-back guarantee */}
             <div>
@@ -542,7 +542,7 @@ export default function Home() {
             </div>
 
             {/* Spacer */}
-            <div className="h-4 md:h-6" />
+            {/* <div className="h-4 md:h-6" /> */}
 
             {/* Terms */}
             <div>
